@@ -1,6 +1,6 @@
 version: 2
 sources:
 - name: staging
-  schema: public
+  schema: dbt_climate
   tables:
     - name: weather_raw
